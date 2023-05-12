@@ -2,8 +2,10 @@
 
 Mi nombre es Luciano y soy Sr. Fullstack Developer. Soy una persona colaborativa e inovadora que le gustan los desafíos y aprender cosas nuevas.
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](http://linkedin.com/in/luciano-fodrini)
-
+<a href="http://linkedin.com/in/luciano-fodrini" target="_blank" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
+  
 ## 👨🏻‍🎓 Educación
 
 2010-2017 | Ingenería en Informática | UCASAL
