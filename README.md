@@ -2,7 +2,7 @@
 
 Mi nombre es Luciano y soy Sr. Fullstack Developer. Soy una persona colaborativa e inovadora que le gustan los desafíos y aprender cosas nuevas.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<img name="linkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" onClick="http://linkedin.com/in/luciano-fodrini" />
 
 ## 👨🏻‍🎓 Educación
 
@@ -16,4 +16,4 @@ Mi nombre es Luciano y soy Sr. Fullstack Developer. Soy una persona colaborativa
 
 ## GitHub Stats
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucfod https://github-readme-stats.vercel.app/api/top-langs/?username=lucfod
+![GitHubStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucfod)) ![UsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucfod)
