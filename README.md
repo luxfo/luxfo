@@ -4,5 +4,5 @@ Soy LucFod, developer fullstack MERN.
 
 🛠 Skills
 
-![Screenshot](images/html5.svg) ![Screenshot](css.svg) ![Screenshot](tailwindcss.svg) ![Screenshot](javascript.svg) ![Screenshot](typescript.svg) ![Screenshot](react.svg) ![Screenshot](nodejs.svg) ![Screenshot](mongodb.svg)
+![Screenshot](images/html5.svg) ![Screenshot](images/css.svg) ![Screenshot](images/tailwindcss.svg) ![Screenshot](images/javascript.svg) ![Screenshot](images/typescript.svg) ![Screenshot](images/react.svg) ![Screenshot](images/nodejs.svg) ![Screenshot](images/mongodb.svg)
 
