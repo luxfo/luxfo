@@ -23,6 +23,6 @@ Soy Sr. Fullstack Developer. Una persona colaborativa e inovadora que le gustan 
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## GitHub Stats
+## ☆ GitHub Stats
 
 ![GitHubStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luxfo) ![UsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxfo)
