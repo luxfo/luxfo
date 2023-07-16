@@ -3,12 +3,6 @@
 Soy Sr. Fullstack Developer. Una persona colaborativa e inovadora que le gustan los desafíos y aprender nuevas tecnologías.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/luciano-fodrini)
-  
-## 👨🏻‍🎓 Educación
-
-2010-2017 | Ingenería en Informática | UCASAL
-
-2008 | Curso Oracle Introductorio y Developer | UTN
 
 ## 🛠 Skills Languages and Technologies
 
