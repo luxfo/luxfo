@@ -1,4 +1,4 @@
-# Hola, Soy Luxfo.dev! 👋
+# Hola, soy Luxfo.dev! 👋
 
 Soy Sr. Fullstack Developer. Una persona colaborativa e inovadora que le gustan los desafíos y aprender nuevas tecnologías.
 
