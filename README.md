@@ -1,6 +1,6 @@
 # Hola, soy Luxfo! 👋
 
-Soy Data & Software Engineer. Una persona colaborativa e inovadora que le gustan los desafíos y aprender nuevas tecnologías.
+Soy Data & Software Engineer. Una persona colaborativa e innovadora que le gustan los desafíos y aprender nuevas tecnologías.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/luciano-fodrini)
 
