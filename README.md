@@ -1,4 +1,4 @@
-# Hola, soy Luxfo! 👋
+# Hola! 👋
 
 Soy Data & Software Engineer. Una persona colaborativa e innovadora que le gustan los desafíos y aprender nuevas tecnologías.
 
